@@ -11,9 +11,6 @@
 🌱 &nbsp;I'm on track for learning more about Systems Design, and Algorithms.
 
 
-
-
-
 ## 🌎 Find me around the web
 - Practising on <a href="https://leetcode.com/arunavabasu-03">LeetCode</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/arunavabasu03/">LinkedIn</a> & <a href="https://twitter.com/arunavabasu_03/">Twitter</a> 😇
