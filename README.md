@@ -13,6 +13,6 @@
 
 <!-- 📕Blog posts -->
 <!-- BLOG-POST-LIST:START -->
-- [Hello welcome to my blog](https://blog.arunavabasu.com/hello-welcome-to-my-blog)
+<!-- - [Hello welcome to my blog](https://blog.arunavabasu.com/hello-welcome-to-my-blog) -->
 <!-- BLOG-POST-LIST:END -->
 
